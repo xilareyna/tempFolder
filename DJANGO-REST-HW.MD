@@ -16,8 +16,9 @@ Create a model and name it as Bucketlist, which should have the following fields
   
   
 ## Your API must be able to ...
- 
+``` 
 Create a bucketlist – Handle POST request
 Read a bucketlist(s) – Handle GET request
 Update a bucketlist – Handle PUT request
 Delete a bucketlist – Handle DELETE request
+```
