@@ -1,7 +1,7 @@
 # W10D04-HW
 
 ### 1. DJANGO REST: 2hr
-- [NFL]()
+- [DJANGO REST](https://git.generalassemb.ly/SEIR-224/W10D04-HW/blob/master/DJANGO-REST-HW.MD)
 
 ### 2. Watch - EST TIME: NA
 
