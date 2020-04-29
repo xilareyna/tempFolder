@@ -1,6 +1,6 @@
 # W10D04-HW
 
-### 1. DJANGO REST: 1hr
+### 1. DJANGO REST: 2hr
 - [NFL]()
 
 ### 2. Watch - EST TIME: NA
