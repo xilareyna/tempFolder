@@ -1,4 +1,4 @@
-# 
+# DJANGO REST Homework
 
 ## Initial setup
 1. Create a name Python3 virtual environment and activate the environment
