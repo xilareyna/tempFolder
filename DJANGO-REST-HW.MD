@@ -11,7 +11,7 @@
 ## Model
 Create a model and name it as Bucketlist, which should have the following fields.
 ```
-  name; make sure to title is unique, and the max is 255
+  name; make sure to name is unique, and the max is 255
   date_created; make sure this field can obtain the current time, this field is not exposed to the user
   date_modified; make sure this field can obtain the current time, this field is not exposed to the user
 ```  
