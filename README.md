@@ -6,7 +6,7 @@
 ### 2. Watch - EST TIME: NA
 
 ### 3. Read - EST TIME: 30min
-
+- (MVC vs MVT)(https://lukeplant.me.uk/blog/posts/mvc-is-not-a-helpful-analogy-for-django/)
 ### 3. Algo Practice - EST TIME: 1hr
 - [Search Insert Position](https://git.generalassemb.ly/SEIR-224/W10D04-HW/blob/master/ALGO.MD)
 
