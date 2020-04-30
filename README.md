@@ -8,7 +8,7 @@
 ### 3. Read - EST TIME: 30min
 
 ### 3. Algo Practice - EST TIME: 1hr
-- []()
+- [Search Insert Position](https://git.generalassemb.ly/SEIR-224/W10D04-HW/blob/master/ALGO.MD)
 
 
 ### 4.  Interview Practice - EST TIME: 20min
