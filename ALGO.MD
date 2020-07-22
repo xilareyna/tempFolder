@@ -1,6 +1,6 @@
 ### WHERE DO I BELONG?
 
-Return the lowest index at which a value (second argument) should be inserted into an array (first argument) once it has been sorted. The returned value should be a number.
+Return the lowest index at which a value (second argument) should be inserted into an array (first argument) once it has been sorted. The returned value should be a number.   
 
 Example
 
@@ -9,6 +9,8 @@ getIndexToIns([1,2,3,4], 1.5)should return 1 because it is greater than 1(index 
 
 getIndexToIns([20,3,5], 19)should return 2 because once the array has been sorted it will look like [3,5,20]and 19 is less than 20(index 2) and greater than 5(index 1)
 ```
+
+Requirement: You must solve the algo based on the below pseudocode only.  
 
 ```ruby
 # PSEUDOCODE BELOW
