@@ -13,7 +13,6 @@ getIndexToIns([20,3,5], 19)should return 2 because once the array has been sorte
 **Requirement:** You must solve the algo based on the below pseudocode only.  
 
 ```ruby
-# PSEUDOCODE BELOW
 # START PROGRAM
 #   ADD the second input to the array input.
 #   SORT the array.
