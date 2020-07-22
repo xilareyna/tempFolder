@@ -7,7 +7,7 @@
 
 ### 3. Algo Practice - EST TIME: 30min
 
-- [WHERE DO I BELONG?](ALGO.md)
+- [WHERE DO I BELONG?](ALGO.MD)
 
 ### 4.  Interview Practice - EST TIME: 20min
 1. Create a new Google Doc called ***Tech Interview Questions** and turn sharing on.
