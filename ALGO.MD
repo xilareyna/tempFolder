@@ -1,40 +1,21 @@
-# Search insert position
+### WHERE DO I BELONG?
 
-Given a sorted array and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.
+Return the lowest index at which a value (second argument) should be inserted into an array (first argument) once it has been sorted. The returned value should be a number.
 
-You may assume no duplicates in the array.
+Example
 
-## Example 1
 ```text
-Input: [1,3,5,6], 5
-Output: 2
+getIndexToIns([1,2,3,4], 1.5)should return 1 because it is greater than 1(index 0), but less than 2(index 1).
+
+getIndexToIns([20,3,5], 19)should return 2 because once the array has been sorted it will look like [3,5,20]and 19 is less than 20(index 2) and greater than 5(index 1)
 ```
 
-## Example 2
-```text
-Input: [1,3,5,6], 2
-Output: 1
-```
-
-## Example 3
-```text
-Input: [1,3,5,6], 7
-Output: 4
-```
-
-## Example 4
-```text
-Input: [1,3,5,6], 0
-Output: 0
-```
-
-```python
-class Solution(object):
-    def searchInsert(self, nums, target):
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: int
-        """
-        
+```ruby
+# PSEUDOCODE BELOW
+# START PROGRAM
+#   ADD the second input to the array input.
+#   SORT the array.
+#   Convert the array into an object where the keys are the values of the array and the values are the index of the array. 
+#   RETURN the value of the object at the value of the second input.
+# END PROGRAM
 ```
