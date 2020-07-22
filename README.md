@@ -1,7 +1,7 @@
 # W10D04-HW
 
 ### 1. SQL NFL
-[SQL Nfl](https://git.generalassemb.ly/SEIR-526/sql-nfl)
+- [SQL Nfl](https://git.generalassemb.ly/SEIR-526/sql-nfl)
 
 ### 2. Watch - EST TIME: NA
 
