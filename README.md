@@ -7,7 +7,7 @@
 
 ### 3. Algo Practice - EST TIME: 30 mins
 
-- [reverse_an_array(in-ruby)](./algo.md)
+- [reverse_an_array(in-ruby)](./reverse_an_array.md)
 
 ### 4.  Interview Practice - EST TIME: 20min
 - Add and answer the following question: 
