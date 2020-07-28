@@ -5,7 +5,9 @@
 
 ### 2. Watch - EST TIME: NA
 
-### 3. Algo Practice - EST TIME: NA
+### 3. Algo Practice - EST TIME: 30 mins
+
+- [reverse_an_array(in-ruby)](./algo.md)
 
 ### 4.  Interview Practice - EST TIME: 20min
 - Add and answer the following question: 
