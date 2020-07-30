@@ -5,9 +5,9 @@
 
 ### 2. Watch || Read - EST TIME: 20 mins
 
-You learned all about Postgresql today which we will be using for all our Rails apps.  Rails has very specific steps and naming conventions regarding building our tables, one of which involves creating Migration files. 
+You learned all about Postgresql today which we will be using for all our Rails apps.  Rails has very specific steps and naming conventions regarding building our tables, one of which involves creating Migration files. So were only asking that you take sometime tonight to read only the three following sections on Rails Migrations:
 
-- [Read only the following sections on Rails Migrations:](https://stackify.com/rails-migration-a-complete-guide/)
+- [Rails Migrations:](https://stackify.com/rails-migration-a-complete-guide/)
     - What’s a Rails migration?
     - Why would I need it?
     - What can I do with it?
