@@ -3,7 +3,9 @@
 ### 1. SQL NFL
 - [SQL NFL](https://git.generalassemb.ly/SEIR-526/sql-nfl)
 
-### 2. Watch - EST TIME: 20 mins
+### 2. Watch || Read - EST TIME: 20 mins
+
+In preparation for tomorrows lecture on Rails:
 
 - [Read the following sections on Rails Migrations:](https://stackify.com/rails-migration-a-complete-guide/)
     - What’s a Rails migration?
