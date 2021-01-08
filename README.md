@@ -1,4 +1,4 @@
-# W10D04-HW
+# Homework W11d05
 
 ### 1. SQL NFL
 - [SQL NFL](https://git.generalassemb.ly/SEIR-526/sql-nfl)
